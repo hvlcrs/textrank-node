@@ -1,6 +1,6 @@
 {
   "name": "textrank-node",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "description": "textrank implementation",
   "main": "./lib/textrank",
   "dependencies": {
@@ -25,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/hvlcrs/textrank-node/issues"
   },
-  "homepage": "https://github.com/hvlcrs/textrank-node"
+  "homepage": "https://github.com/hvlcrs/textrank-node",
+  "readmeFilename": "README.md"
 }

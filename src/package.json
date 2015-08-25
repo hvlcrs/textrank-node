@@ -1,6 +1,6 @@
 {
   "name": "textrank-node",
-  "version": "0.1.1",
+  "version": "0.1.7",
   "description": "textrank implementation",
   "main": "./lib/textrank",
   "dependencies": {
@@ -17,7 +17,8 @@
     "url": "https://github.com/hvlcrs/textrank-node.git"
   },
   "keywords": [
-    "textrank"
+    "textrank",
+    "summary"
   ],
   "author": "Havel Cyrus <hvlcrs@gmail.com>",
   "license": "MIT",

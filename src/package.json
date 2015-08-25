@@ -1,0 +1,28 @@
+{
+  "name": "textrank-node",
+  "version": "0.1.1",
+  "description": "textrank implementation",
+  "main": "./lib/textrank",
+  "dependencies": {
+    "natural": "^0.2.1",
+    "node-matrix": "^0.1.1",
+    "pagerank-js": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hvlcrs/textrank-node.git"
+  },
+  "keywords": [
+    "textrank"
+  ],
+  "author": "Havel Cyrus <hvlcrs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hvlcrs/textrank-node/issues"
+  },
+  "homepage": "https://github.com/hvlcrs/textrank-node"
+}

@@ -1,7 +1,7 @@
 # textrank-node
 Textrank-node is an implementation of [text rank algorithm](http://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf) 
 written in Node JS.
-You can simply add this module to your project and start right away.
+You can simply add this module to your project and start right away using Node JS.
 
 This code relies a lot on [natural](https://github.com/NaturalNode/natural) 
 (which is an awesome library) for processing NLP related stuff.
